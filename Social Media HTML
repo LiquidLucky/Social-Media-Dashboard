@@ -18,7 +18,19 @@
     <section class="Logo">
     <a href="https://ibb.co/hWVvGP0"><img src="https://i.ibb.co/cFQdWGq/DALL-E-2024-11-23-02-39-33-A-creative-and-modern-logo-for-a-social-media-app-named-Cirqle-The-design.webp" alt="" border="0"></a><br /><a target='_blank'></a><br />
     </section>
-kommentar: 
+
+    <section class="Timeline">
+        <div class="Bilder">
+
+        </div>
+    </section>
+
+    <section class="Kommentare">
+        <div class="KommentareSchreiben">
+            kommentar: 
+        </div>
+    </section>
+
 
 </body>
 </html>
