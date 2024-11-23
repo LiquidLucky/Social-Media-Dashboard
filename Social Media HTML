@@ -2,13 +2,23 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="Social Media CSS.css">
-    <link rel="stylesheet" href="Social Media JAVA.js">
+    <script src="Social Media JAVA.js" defer></script>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=100px, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Platform</title>
 </head>
 <body>
- <h1>Social Media Dashboard</h1>
- 
+    <section class="Headline">
+        <div class="Cirqle">
+            <h1>
+                Cirqle
+            </h1>
+        </div>
+    </section>
+    <section class="Logo">
+    <a href="https://ibb.co/hWVvGP0"><img src="https://i.ibb.co/cFQdWGq/DALL-E-2024-11-23-02-39-33-A-creative-and-modern-logo-for-a-social-media-app-named-Cirqle-The-design.webp" alt="" border="0"></a><br /><a target='_blank'></a><br />
+    </section>
+kommentar: 
+
 </body>
 </html>

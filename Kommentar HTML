@@ -1,0 +1,20 @@
+<html>
+<head>
+    <link rel="stylesheet" href="Social Media CSS.css">
+    <title>Kommentar</title>
+</head>
+<body>
+<h1>Kommentar</h1>
+<form action="hier link einfügen" autocomplete="off">
+    <label for "kommentar">Kommentar:</label>
+    <input id="kommentar" name="kommentar">
+    <button type="submit" name="action" value="0">Senden</button>
+
+
+</body>
+
+
+
+
+
+PENIS</html>

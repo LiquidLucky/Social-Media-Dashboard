@@ -1,9 +1,35 @@
-body{
-    background: #444242;
-        font-family: Arial, Helvetica, sans-serif;
-        color: white;
-    }
 
-h1 {
-    color: rgb(255, 0, 0)
-    }
+/* General Body */
+body {
+    max-width: 100%;
+    max-height: 100%;
+    background: #444242;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0; 
+    padding: 0; 
+}
+
+/* Headline  */
+.Headline .Cirqle {
+    text-align: center;
+    font-size: 40px; 
+    margin-top: 0; 
+    padding: 0; 
+}
+
+img {
+    position: absolute; 
+    top: 0;  
+    left: 0;  
+    width: 10%; 
+    margin: 0; 
+    padding: 0;  
+    border-radius: 50%;
+
+}
+
+h1{
+    color: red;
+}
+
