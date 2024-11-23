@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="Social Media CSS">
-    <link rel="stylesheet" href="Social Media JAVA">
+    <link rel="stylesheet" href="Social Media CSS.css">
+    <link rel="stylesheet" href="Social Media JAVA.js">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=100px, initial-scale=1.0">
     <title>Document</title>
