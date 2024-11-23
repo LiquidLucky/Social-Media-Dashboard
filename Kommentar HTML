@@ -5,16 +5,13 @@
 </head>
 <body>
 <h1>Kommentar</h1>
-<form action="hier link einfügen" autocomplete="off">
+<form action="file:///C:/Users/lenar/OneDrive/Desktop/coden/Social%20Media%20HTML.html" autocomplete="off">
     <label for "kommentar">Kommentar:</label>
     <input id="kommentar" name="kommentar">
     <button type="submit" name="action" value="0">Senden</button>
 
+    <input type="image" src="https://i.ibb.co/cv5WMFP/DALL-E-2024-11-23-16-58-02-A-modern-sleek-send-button-design-featuring-a-stylized-arrow-inside-a-cir.png">
+
 
 </body>
-
-
-
-
-
-PENIS</html>
+</html>
