@@ -30,6 +30,6 @@ img {
 }
 
 h1{
-    color: red;
+    color: rgb(154, 17, 245);
 }
 
